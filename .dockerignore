@@ -1,0 +1,14 @@
+.env
+*.pdf
+*.python
+*.yaml
+.dockerignore
+.gitignore
+*.md
+*.sh
+*.git
+nginx/
+haproxy/
+not_tested_main.py
+LICENSE
+
